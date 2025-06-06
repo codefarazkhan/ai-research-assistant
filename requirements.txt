@@ -7,3 +7,6 @@ accelerate
 huggingface-hub
 pypdf
 sentence-transformers
+langchain-community
+langchain-huggingface
+python-multipart
